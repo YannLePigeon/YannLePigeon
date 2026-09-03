@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://nightrunners.eu/@yannlepigeon">
-    <img src="https://cards.nrght.eu/profile/yannlepigeon?v=35" alt="Nightrunners Card">
+    <img src="https://cards.nrght.eu/profile/yannlepigeon" alt="Nightrunners Card">
   </a>
 </div>
 
